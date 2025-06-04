@@ -1,7 +1,6 @@
 # Smart India Hackathon Workshop
 # Date:20/05/2025
-## Register Number:212222230027
-## Name: DARIO G
+
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
